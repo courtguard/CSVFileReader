@@ -1,0 +1,11 @@
+blue, 16, Patka
+red, 444, Guska
+     ,    ,    
+, 21,  
+, 12,  Satka  
+green,      15, Dabar
+yellow      ,  33, Gulab
+brown, 22, mecka
+pink,  -, Puska
+pink , 17, Strk
+black, 66, Lastovica

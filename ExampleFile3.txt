@@ -1,0 +1,12 @@
+black, 33, Klukajdrvec
+,,
+   ,    , 
+qwe,  , 123
+blue, 12, Nebo
+yellow, x, Sonce
+yellow, 19, Sonce
+brown, 21, Mecka
+green, 45, Treva
+red, 60, Sarplaninec
+pink, 44, Flamingo
+orange, 30, Pikado
